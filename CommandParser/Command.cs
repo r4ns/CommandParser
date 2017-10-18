@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace CommandParser
 {
-    class Program
+    public class Command
     {
-        static void Main(string[] args)
-        {
 
-        }
     }
 }
