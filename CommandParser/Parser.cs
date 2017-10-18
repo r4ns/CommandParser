@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace CommandParser
 {
+    //Contains the parsing logic
     public class Parser
     {
 

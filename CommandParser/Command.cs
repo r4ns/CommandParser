@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace CommandParser
 {
+    //Contains the drone commands
     public class Command
     {
-
+        
     }
 }
